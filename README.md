@@ -1,0 +1,2 @@
+# Air-Pollution-Detection-System
+To create a system for detecting level of gases in our surrounding. System would detect the quantity of gases by taking consideration of temperature and humidity. This System is intended to provide the user with a cost-efficient means of determining air quality. The collected data by the system will be helpful to take necessary steps regarding Air Pollution. It will also Alert by push - down notification when the amount of hazardous gas crosses its danger level.A New Approach towards Reducing Air pollution Problems.
